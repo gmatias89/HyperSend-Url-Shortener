@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/gmatias89/HyperSend/issues"
   },
-  "homepage": "https://github.com/gmatias89/HyperSend#readme"
+  "homepage": "https://github.com/gmatias89/HyperSend#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.10"
+  }
 }
